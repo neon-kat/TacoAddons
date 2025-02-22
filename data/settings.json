@@ -1,0 +1,84 @@
+[
+    {
+        "category": "General",
+        "settings": [
+            {
+                "type": 2,
+                "name": "MyDiscord"
+            }
+        ]
+    },
+    {
+        "category": "GUI",
+        "settings": [
+            {
+                "type": 2,
+                "name": "apply"
+            },
+            {
+                "type": 5,
+                "name": "bgColor",
+                "value": [
+                    0,
+                    0,
+                    0,
+                    80
+                ]
+            }
+        ]
+    },
+    {
+        "category": "M7",
+        "settings": [
+            {
+                "type": 6,
+                "name": "pre4Helper",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Funny",
+        "settings": [
+            {
+                "type": 6,
+                "name": "jacobShutUp",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "nukeBrainrot",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "brainrotPartyKick",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "uwuAddonsHidden",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "etherwarpDing",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "duckSounds",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "fiyrSounds",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "instaBan"
+            }
+        ]
+    }
+]
